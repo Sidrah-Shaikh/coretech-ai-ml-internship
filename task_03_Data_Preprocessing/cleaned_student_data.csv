@@ -1,0 +1,6 @@
+StudentID,Age,Gender,Marks,Passed,Course_AI,Course_CS,Course_IT,Course_SE
+201,-1.0,0,-0.6666666666666666,1,False,True,False,False
+202,0.0,1,0.0,1,False,False,True,False
+203,-0.5,0,-3.0,0,False,False,False,True
+204,0.5,1,1.6666666666666667,1,False,True,False,False
+205,1.0,0,0.3333333333333333,1,True,False,False,False

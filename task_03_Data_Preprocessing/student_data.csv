@@ -1,0 +1,7 @@
+StudentID,Age,Gender,Course,Marks,Passed
+201,18,Female,CS,85.0,Yes
+202,20,Male,IT,,Yes
+203,19,Female,SE,78.0,No
+204,21,Male,CS,92.0,Yes
+204,21,Male,CS,92.0,Yes
+205,22,Female,AI,88.0,Yes
