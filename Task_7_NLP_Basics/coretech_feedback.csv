@@ -1,0 +1,31 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment,Cleaned_Text
+1,Ali,Web,Excellent service,5,Positive,excel servic
+2,Sara,Mobile,Very satisfied,5,Positive,satisfi
+3,Ahmed,Support,Good support,4,Positive,good support
+4,Fatima,Web,Amazing experience,5,Positive,amaz experi
+5,Usman,Support,Fast response,4,Positive,fast respons
+6,Ayesha,Mobile,Helpful staff,5,Positive,help staff
+7,Bilal,Web,Great application,5,Positive,great applic
+8,Hina,Support,Professional team,5,Positive,profession team
+9,Hamza,Web,Highly recommended,5,Positive,highli recommend
+10,Noor,Mobile,Easy to use,4,Positive,easi use
+11,Asad,Support,Poor support,2,Negative,poor support
+12,Zara,Web,Slow response,2,Negative,slow respons
+13,Danish,Mobile,Bad experience,1,Negative,bad experi
+14,Iqra,Support,Very disappointed,1,Negative,disappoint
+15,Talha,Web,Needs improvement,2,Negative,need improv
+16,Mariam,Mobile,Application crashes often,1,Negative,applic crash often
+17,Saad,Support,Not satisfied,2,Negative,satisfi
+18,Anum,Web,Terrible service,1,Negative,terribl servic
+19,Omer,Mobile,Waste of time,1,Negative,wast time
+20,Laiba,Support,Unprofessional behavior,1,Negative,unprofession behavior
+21,Farhan,Web,Excellent support,5,Positive,excel support
+22,Kiran,Support,Quick resolution,4,Positive,quick resolut
+23,Waqas,Mobile,Loved the service,5,Positive,love servic
+24,Nimra,Web,Friendly staff,5,Positive,friendli staff
+25,Hassan,Support,Outstanding performance,5,Positive,outstand perform
+26,Mehak,Mobile,Bad customer support,2,Negative,bad custom support
+27,Adeel,Web,Slow application,2,Negative,slow applic
+28,Sana,Support,Needs updates,2,Negative,need updat
+29,Shayan,Mobile,Good overall,4,Positive,good overal
+30,Rabia,Web,Fantastic experience,5,Positive,fantast experi
