@@ -1,4 +1,4 @@
-# 💬 Client Feedback Sentiment Analyzer
+#  Client Feedback Sentiment Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red.svg)
@@ -9,7 +9,7 @@ A machine learning web application that analyzes customer feedback and predicts 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 Task_11_Sentiment_Analyzer/
 - Task_11_Sentiment_Analyzer.ipynb — Main notebook
@@ -26,7 +26,7 @@ Task_11_Sentiment_Analyzer/
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is part of **Task 11 — Final AI/ML Project Development**.
 
@@ -38,7 +38,7 @@ The goal is to build an end-to-end sentiment analysis system that:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source:** Twitter Sentiment Analysis Dataset
 - **Size:** 5,000 balanced samples (2,500 Positive + 2,500 Negative)
@@ -47,7 +47,7 @@ The goal is to build an end-to-end sentiment analysis system that:
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -62,7 +62,7 @@ The goal is to build an end-to-end sentiment analysis system that:
 
 ---
 
-## ⚙️ Steps Performed
+##  Steps Performed
 
 ### 1. Data Loading
 - Loaded real Twitter sentiment dataset from URL
@@ -102,7 +102,7 @@ The goal is to build an end-to-end sentiment analysis system that:
 
 ---
 
-## 💡 Business Insights
+##  Business Insights
 
 1. Logistic Regression outperformed Naive Bayes on this dataset
 2. Positive and Negative feedback is balanced — no class bias
@@ -113,7 +113,7 @@ The goal is to build an end-to-end sentiment analysis system that:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Sidra Abdul Shakoor**
 AI/ML Student — Task 11 Final Project
