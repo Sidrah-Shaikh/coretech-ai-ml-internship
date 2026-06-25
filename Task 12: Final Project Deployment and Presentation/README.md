@@ -106,7 +106,7 @@ http://localhost:8501
 
 ## 🎬 Demo Video
 Watch the full project walkthrough here:
-YOUR_LOOM_VIDEO_LINK_HERE
+https://www.loom.com/share/f7c5c40456c345a5a261924e882f7ea5
 
 ---
 
