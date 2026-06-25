@@ -67,7 +67,7 @@ The app has 3 pages:
 ## 🚀 Setup Instructions
 
 ### Step 1 - Clone the Repository
-git clone https://github.com/YOUR_USERNAME/titanic-final-project.git
+git clone https://github.com/Sidrah-Shaikh/coretech-ai-ml-internship/tree/main/Task%2012%3A%20Final%20Project%20Deployment%20and%20Presentation
 cd titanic-final-project
 
 ### Step 2 - Install Dependencies
