@@ -96,11 +96,28 @@ http://localhost:8501
 - models/encoders.pkl — Fitted LabelEncoder objects
 - models/eval_results.json — Model evaluation metrics
 - eda_charts/01_survival_count.png
+- 
+  <img width="823" height="598" alt="01_survival_count" src="https://github.com/user-attachments/assets/34ecc870-39ce-4bee-9e81-b6c1d44a2f81" />
+
 - eda_charts/02_survival_by_gender.png
+  
+  <img width="823" height="598" alt="02_survival_by_gender" src="https://github.com/user-attachments/assets/1291b9b4-4ad4-467a-8ed6-510f0d5801b9" />
+
 - eda_charts/03_age_distribution.png
+
+  <img width="1041" height="598" alt="03_age_distribution" src="https://github.com/user-attachments/assets/3168116a-9c16-47bf-89d1-b2b19756f397" />
+
 - eda_charts/04_survival_by_class.png
+
+  <img width="823" height="598" alt="04_survival_by_class" src="https://github.com/user-attachments/assets/ae1f8606-fb8f-4011-9d0f-fde95e050f64" />
+
 - eda_charts/05_fare_by_survival.png
+
+  <img width="1055" height="598" alt="05_fare_by_survival" src="https://github.com/user-attachments/assets/3f8d0744-f80d-47b4-b1e9-c1d3dbfcee3d" />
+
 - eda_charts/06_correlation_heatmap.png
+
+<img width="1088" height="912" alt="06_correlation_heatmap" src="https://github.com/user-attachments/assets/00982f44-b3c0-4335-bb3d-07060c6c63fd" />
 
 ---
 
